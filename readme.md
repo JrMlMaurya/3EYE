@@ -39,6 +39,11 @@ pip install -r requirements.txt
 
 ## Usages
 
+- Upload any image and get the background generated based on the prompt
+
+
+
+
 
 
 
