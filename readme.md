@@ -10,7 +10,6 @@ This project implements a background generation system using a diffusion-based i
 ## Demo
 A live demo is available at: [HuggingFace Space](https://huggingface.co/spaces/akashmaurya/bg_generator)
 
-![Input Image](images\input_image.jpg)   
 
 ## Table of Contents
 - [Installation](#installation)
@@ -78,3 +77,9 @@ One of the primary challenges was generating a perfect mask for the background. 
 ### Inpainting Parameters
 Another challenge was adjusting the inpainting parameters. Different images required different settings for optimal results. Tuning parameters such as the diffusion steps, noise levels, and mask areas required trial and error to balance foreground preservation and background regeneration.
 
+
+#### Note:
+``` 
+The deployed model is running on the 'HuggingFace Free Space` with the CPU Basic 2vCPU 16 GB RAM. The image genration will take longer time and to give the results.
+For faster inference use the `generate_bg.ipynb` note with colab free T4 GPU. 
+```
