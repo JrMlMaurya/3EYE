@@ -10,6 +10,8 @@ This project implements a background generation system using a diffusion-based i
 ## Demo
 A live demo is available at: [HuggingFace Space](https://huggingface.co/spaces/akashmaurya/bg_generator)
 
+![Input Image](images\input_image.jpg)   
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
