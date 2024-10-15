@@ -64,7 +64,9 @@ The project uses a diffusion model for inpainting, which regenerates the backgro
 ### Code Structure
 
 `app.py`: Contains the Streamlit-based user interface for image upload, mask generation, and background regeneration.
+
 `main.py`: Core logic for handling diffusion inpainting and mask manipulation.
+
 `requirements.txt`: Python dependencies required for running the project.
 
 ## Challenges Faced 
