@@ -35,7 +35,7 @@ You can install the required libraries using `pip`:
 
 ```
 pip install -r requirements.txt
-'''
+```
 
 ## Usages
 
