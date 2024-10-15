@@ -45,7 +45,9 @@ pip install -r requirements.txt
 
 Run the 'app.py' file using `streamlit`:
 
-``` streamlit run app.py```
+``` 
+streamlit run app.py
+```
 
 ## Usages
 
