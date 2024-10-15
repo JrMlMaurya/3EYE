@@ -31,11 +31,21 @@ A live demo is available at: [HuggingFace Space](https://huggingface.co/spaces/a
   - `opencv-python`
   - `Pillow`
 
+#### Clone the Repository
+```
+git clone https://github.com/JrMlMaurya/3EYE.git
+cd 3EYE
+```
+
 You can install the required libraries using `pip`:
 
 ```
 pip install -r requirements.txt
 ```
+
+Run the 'app.py' file using `streamlit`:
+
+``` streamlit run app.py```
 
 ## Usages
 
