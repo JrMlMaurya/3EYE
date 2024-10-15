@@ -81,4 +81,5 @@ Another challenge was adjusting the inpainting parameters. Different images requ
 #### Note:
 
 The deployed model is running on the `HuggingFace Free Space` with the CPU Basic 2vCPU 16 GB RAM. The image genration will take longer time and to give the results.
+
 For faster inference use the `generate_bg.ipynb` note with colab free T4 GPU. 
