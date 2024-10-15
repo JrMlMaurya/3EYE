@@ -8,7 +8,7 @@ This project implements a background generation system using a diffusion-based i
 - Adjustable inpainting parameters for fine-tuning the results.
 
 ## Demo
-A live demo is available at: [text](https://huggingface.co/spaces/akashmaurya/bg_generator)
+A live demo is available at: [HuggingFace Space](https://huggingface.co/spaces/akashmaurya/bg_generator)
 
 ## Table of Contents
 - [Installation](#installation)
