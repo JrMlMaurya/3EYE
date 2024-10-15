@@ -33,11 +33,13 @@ A live demo is available at: [HuggingFace Space](https://huggingface.co/spaces/a
 
 You can install the required libraries using `pip`:
 
-```bash
+```
 pip install -r requirements.txt
 '''
 
-## Usage
+## Usages
+
+
 
 
 
