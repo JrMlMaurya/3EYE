@@ -15,7 +15,6 @@ A live demo is available at: [HuggingFace Space](https://huggingface.co/spaces/a
 - [Usage](#usage)
 - [Technical Details](#technical-details)
 - [Challenges Faced](#challenges-faced)
-- [License](#license)
 
 ---
 
@@ -76,9 +75,4 @@ One of the primary challenges was generating a perfect mask for the background. 
 
 ### Inpainting Parameters
 Another challenge was adjusting the inpainting parameters. Different images required different settings for optimal results. Tuning parameters such as the diffusion steps, noise levels, and mask areas required trial and error to balance foreground preservation and background regeneration.
-
-
-
-
-
 
